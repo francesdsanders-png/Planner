@@ -1,0 +1,17 @@
+{
+  "name": "Planner 2.0 — To Do",
+  "short_name": "Planner To Do",
+  "start_url": "./todo.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101317",
+  "theme_color": "#101317",
+  "icons": [
+    {
+      "src": "./todo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
